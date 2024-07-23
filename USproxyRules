@@ -111,3 +111,11 @@ DOMAIN-SUFFIX,visible.com
 IP-CIDR,199.0.0.0/8
 IP-CIDR,208.0.0.0/8
 
+# Ultra mobile
+DOMAIN-SUFFIX,ultramobile.com
+DOMAIN,my.ultramobile.com
+DOMAIN,www.ultramobile.com
+DOMAIN,api.ultramobile.com
+DOMAIN,account.ultramobile.com
+DOMAIN,paygo.ultramobile.com
+
