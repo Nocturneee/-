@@ -11,6 +11,19 @@ DOMAIN-KEYWORD,cdnbc-logs.hsbc.com
 DOMAIN-KEYWORD,d0r7clfv2slbaskjrbpfrgqzn4qtocrktla5akcjc611196246f6d3c6sac.d.aa.online-metrix.net
 DOMAIN-KEYWORD,nssurge.com
 # > SUFFIX
+DOMAIN-SUFFIX,blackmagicdesign.com
+DOMAIN-SUFFIX,blackmagiccloud.com
+DOMAIN-SUFFIX,resolve.blackmagicdesign.com
+DOMAIN-KEYWORD,davinciresolve
+DOMAIN-SUFFIX,bmdstatic.com
+DOMAIN-SUFFIX,bmd-support.com
+DOMAIN-SUFFIX,bmdinfo.com
+DOMAIN-SUFFIX,bmdsoftware.com
+DOMAIN-SUFFIX,bmdreseller.com
+DOMAIN-SUFFIX,bmdcloud.com
+DOMAIN-SUFFIX,blackmagicraw.com
+DOMAIN-SUFFIX,blackmagicforum.com
+DOMAIN-SUFFIX,blackmagiccamera.com
 DOMAIN-SUFFIX,onion
 DOMAIN-SUFFIX,5beresim-file.oss-cn-hongkong.aliyuncs.com
 DOMAIN-SUFFIX,cloudflare.com
