@@ -42,6 +42,8 @@ DOMAIN-SUFFIX,ifaa.org.cn
 DOMAIN-SUFFIX,luohanacademy.com
 DOMAIN-SUFFIX,sinopayment.com.cn
 #Interactive Brokers 域名
+DOMAIN-SUFFIX,ocsp.digicert.com
+DOMAIN-SUFFIX,c.go-mpulse.net
 DOMAIN-SUFFIX,ibkr.com
 DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,ibroker.com
