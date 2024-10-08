@@ -12,6 +12,8 @@ DOMAIN-KEYWORD,cdnbc-logs.hsbc.com
 DOMAIN-KEYWORD,d0r7clfv2slbaskjrbpfrgqzn4qtocrktla5akcjc611196246f6d3c6sac.d.aa.online-metrix.net
 DOMAIN-KEYWORD,nssurge.com
 # > SUFFIX
+DOMAIN-SUFFIX,ocsp.digicert.com
+DOMAIN-SUFFIX,c.go-mpulse.net
 DOMAIN-SUFFIX,blackmagicdesign.com
 DOMAIN-SUFFIX,blackmagiccloud.com
 DOMAIN-SUFFIX,resolve.blackmagicdesign.com
