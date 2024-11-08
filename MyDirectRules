@@ -1,3 +1,9 @@
+PROCESS-NAME,企业微信
+PROCESS-NAME,企业微信Helper
+PROCESS-NAME,Steam
+PROCESS-NAME,Dingtalk
+PROCESS-NAME,DingTalkHelper
+PROCESS-NAME,Steam Helper
 DOMAIN-KEYWORD,microsoft
 DOMAIN-SUFFIX,microsoft.com.cn
 DOMAIN-SUFFIX,windowsupdate.com
