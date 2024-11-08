@@ -4,6 +4,7 @@ PROCESS-NAME,Steam
 PROCESS-NAME,Dingtalk
 PROCESS-NAME,DingTalkHelper
 PROCESS-NAME,Steam Helper
+PROCESS-NAME,Steam
 DOMAIN-KEYWORD,microsoft
 DOMAIN-SUFFIX,microsoft.com.cn
 DOMAIN-SUFFIX,windowsupdate.com
