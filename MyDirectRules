@@ -1,3 +1,10 @@
+#Steam
+DOMAIN-SUFFIX, steampowered.com
+DOMAIN-SUFFIX, steamgames.com
+DOMAIN-SUFFIX, steamusercontent.com
+DOMAIN-SUFFIX, steamstatic.com
+DOMAIN-SUFFIX, akamaihd.net
+
 PROCESS-NAME,企业微信
 PROCESS-NAME,企业微信Helper
 PROCESS-NAME,Dingtalk
