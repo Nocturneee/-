@@ -1,4 +1,8 @@
-
+#bybit
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,bybt.com
+DOMAIN-SUFFIX,bytick.com
 # UgoEarn Shop Surge Rules
 DOMAIN-SUFFIX,ugoearn.com
 DOMAIN,shop.ugoearn.com
