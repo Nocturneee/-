@@ -1,10 +1,9 @@
 #bybit
-DOMAIN-SUFFIX,www.bybit.cloud,"🇺🇸United States" // Added for: www.bybit.cloud:443
-DOMAIN-SUFFIX,api3.bybdc6.com,"🇺🇸United States" // Added for: api3.bybdc6.com:443
-DOMAIN-SUFFIX,ws2.bybdc6.com,"🇺🇸United States" // Added for: ws2.bybdc6.com:443
-DOMAIN-SUFFIX,ws2.byapps.net,"🇺🇸United States" // Added for: ws2.byapps.net:443
-DOMAIN-SUFFIX,ws2.byd3c3.com,"🇺🇸United States" // Added for: ws2.byd3c3.com:443
-DOMAIN-SUFFIX,ws2.byd3c3.com,"🇺🇸United States" // Added for: ws2.byd3c3.com:443
+DOMAIN-SUFFIX,www.bybit.cloud
+DOMAIN-SUFFIX,api3.bybdc6.com
+DOMAIN-SUFFIX,ws2.bybdc6.com
+DOMAIN-SUFFIX,ws2.byapps.net
+DOMAIN-SUFFIX,ws2.byd3c3.com
 DOMAIN-SUFFIX,announcements.bybit-global.com
 DOMAIN-SUFFIX,affiliates.bybit.cloud
 DOMAIN-SUFFIX,announcements.bybit.cloud
