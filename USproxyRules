@@ -1,20 +1,16 @@
 #bybit
-DOMAIN-SUFFIX,announcements.bybit-global.com,"🇺🇸United States" // Added for: announcements.bybit-global.com:443
-DOMAIN-SUFFIX,www.bybit.cloud,"🇺🇸United States" // Added for: www.bybit.cloud:443
-DOMAIN-SUFFIX,affiliates.bybit.cloud,"🇺🇸United States" // Added for: affiliates.bybit.cloud:443
-DOMAIN-SUFFIX,announcements.bybit.cloud,"🇺🇸United States" // Added for: announcements.bybit.cloud:443
-DOMAIN-SUFFIX,announcements.bybit.cloud,"🇺🇸United States" // Added for: announcements.bybit.cloud:443
-DOMAIN-SUFFIX,inapps.appsflyer.com,"🇺🇸United States" // Added for: inapps.appsflyer.com:443
-DOMAIN-SUFFIX,api3.bybit.biz,"🇺🇸United States" // Added for: api3.bybit.biz:443
-DOMAIN-SUFFIX,api3.bybit.biz,"🇺🇸United States" // Added for: api3.bybit.biz:443
-DOMAIN-SUFFIX,api3.byabcde.com,"🇺🇸United States" // Added for: api3.byabcde.com:443
-DOMAIN-SUFFIX,api3.byapps.net,"🇺🇸United States" // Added for: api3.byapps.net:443
-DOMAIN-SUFFIX,api3.byapps.net,"🇺🇸United States" // Added for: api3.byapps.net:443
-DOMAIN-SUFFIX,launches.appsflyer.com,"🇺🇸United States" // Added for: launches.appsflyer.com:443
-DOMAIN-SUFFIX,ws2.bybit.biz,"🇺🇸United States" // Added for: ws2.bybit.biz:443
+DOMAIN-SUFFIX,announcements.bybit-global.com
+DOMAIN-SUFFIX,affiliates.bybit.cloud
+DOMAIN-SUFFIX,announcements.bybit.cloud
+DOMAIN-SUFFIX,inapps.appsflyer.com
+DOMAIN-SUFFIX,api3.bybit.biz
+DOMAIN-SUFFIX,api3.byabcde.com
+DOMAIN-SUFFIX,api3.byapps.net
+DOMAIN-SUFFIX,launches.appsflyer.com
+DOMAIN-SUFFIX,ws2.bybit.biz
 DOMAIN-SUFFIX,api3.byd3c3.com
-DOMAIN-SUFFIX,sc-datasink.ffe390afd658c19dcbf707e0597b846d.de,"🇺🇸United States" // Added for: sc-datasink.ffe390afd658c19dcbf707e0597b846d.de:443
-DOMAIN-SUFFIX,sc-abtest.ffe390afd658c19dcbf707e0597b846d.de,"🇺🇸United States" // Added for: sc-abtest.ffe390afd658c19dcbf707e0597b846d.de:443
+DOMAIN-SUFFIX,sc-datasink.ffe390afd658c19dcbf707e0597b846d.de
+DOMAIN-SUFFIX,sc-abtest.ffe390afd658c19dcbf707e0597b846d.de
 DOMAIN-SUFFIX,api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
 DOMAIN-SUFFIX,monitor-frontend-collector.a.bybit-aws.com
 DOMAIN-SUFFIX,bybit-help-center-prod-ac4de1465648.herokuapp.com
