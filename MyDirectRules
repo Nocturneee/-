@@ -1,4 +1,8 @@
 #Steam
+DOMAIN-SUFFIX,ocsp.comodoca.com
+DOMAIN-SUFFIX,ocsp.usertrust.com
+DOMAIN-SUFFIX,ocsp.sectigo.com
+DOMAIN-SUFFIX,store.steampowered.com
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamgames.com
 DOMAIN-SUFFIX,steamusercontent.com
