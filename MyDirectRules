@@ -481,8 +481,8 @@ DOMAIN-SUFFIX,xvvrkb.lol
 # > qiniup
 DOMAIN-SUFFIX,qiniup.com
 
-IP-CIDR,162.14.0.0/18,no-resolve
-IP-CIDR,140.205.1.0/24,no-resolve
+IP-CIDR,162.14.0.0/18
+IP-CIDR,140.205.1.0/24
 IP-CIDR,1.1.8.0/24
 IP-CIDR,1.2.4.0/24
 IP-CIDR,1.8.1.0/24
@@ -4194,7 +4194,8 @@ DOMAIN-SUFFIX,xlaomi.net
 DOMAIN-SUFFIX,youpin.cn
 DOMAIN-SUFFIX,youpin.com.cn
 DOMAIN-SUFFIX,zhutidasai.com
-IP-CIDR,120.133.33.222/32,no-resolve
-IP-CIDR,47.241.176.221/32,no-resolve
-IP-CIDR,58.220.58.152/31,no-resolve
-IP-CIDR,58.220.59.2/32,no-resolve
+IP-CIDR,120.133.33.222/32
+IP-CIDR,47.241.176.221/32
+IP-CIDR,58.220.58.152/31
+IP-CIDR,58.220.59.2/32
+PROCESS-NAME,"/Applications/极空间.app/Contents/Frameworks/极空间 Helper.app/Contents/MacOS/极空间 Helper"
