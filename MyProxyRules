@@ -1,5 +1,4 @@
 # > KEYWORD
-DOMAIN-KEYWORD,sub.nexconvert.com:443
 DOMAIN-KEYWORD,6bt0.com
 DOMAIN-KEYWORD,www.coze.com
 DOMAIN-KEYWORD,docker
@@ -13,6 +12,7 @@ DOMAIN-KEYWORD,cdnbc-logs.hsbc.com
 DOMAIN-KEYWORD,d0r7clfv2slbaskjrbpfrgqzn4qtocrktla5akcjc611196246f6d3c6sac.d.aa.online-metrix.net
 DOMAIN-KEYWORD,nssurge.com
 # > SUFFIX
+DOMAIN-SUFFIX,sub.nexconvert.com
 DOMAIN-SUFFIX,v3.paddleapi.com
 DOMAIN-SUFFIX,software.charliemonroe.net
 DOMAIN-SUFFIX,software.charliemonroe.net
