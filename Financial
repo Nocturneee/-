@@ -1,4 +1,6 @@
 #胜利证券
+DOMAIN-SUFFIX,notify.rwbkr.com:443
+DOMAIN-SUFFIX,ccp.rwbkr.com
 DOMAIN-SUFFIX,a0wwsv-launches.appsflyersdk.com
 DOMAIN-SUFFIX,a0wwsv-gcdsdk.appsflyersdk.com
 DOMAIN-SUFFIX,news.rwbkr.com
