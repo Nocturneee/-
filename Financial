@@ -6,7 +6,6 @@ DOMAIN-SUFFIX,assets.coingecko.com
 DOMAIN-SUFFIX,geckad.com
 DOMAIN-KEYWORD,coingecko
 #Metamask
-
 DOMAIN-KEYWORD,infura
 DOMAIN-SUFFIX,arbitrum-mainnet.infura.io
 DOMAIN-SUFFIX,linea-goerli.infura.io
